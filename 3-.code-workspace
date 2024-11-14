@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../2rep/.gitignore"
+		},
+		{
+			"path": "../2rep/assets"
+		}
+	],
+	"settings": {}
+}
